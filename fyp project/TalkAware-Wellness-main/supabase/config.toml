@@ -1,0 +1,4 @@
+project_id = "asnibssdpcgyfcndbnqi"
+
+[functions.wellness-chat]
+verify_jwt = false
